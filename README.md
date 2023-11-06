@@ -3,13 +3,13 @@
 ## Description
 There are a series of PHP scripts located in the repo to assist with doing tasks in Canvas. 
 
-## Installation
+### Installation
 Initial setup of the environment is fairly simple:
 - Using the template in ```config-sample.json```, insert your generated Canvas Access Token and save the file as ```config.json```
 - Run ```install.bat``` 
 - Depending on your permissions, the final step may not successfully run. If it doesn't, the script will alert you to copy the ```temp_dir``` to the ```C:``` drive and rename to ```c:\php```
 
-## Usage
+#### Usage
 Double click on the ```main.bat``` file
 ## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
