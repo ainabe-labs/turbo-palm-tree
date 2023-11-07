@@ -1,35 +1,68 @@
-# PHP Canvas Toolbox
+# TurboPalmTree
 
-## Description
-There are a series of PHP scripts located in the repo to assist with doing tasks in Canvas. 
+## Clarus et tumidi clamavit comitique removit
 
-### Installation
-Initial setup of the environment is fairly simple:
-- Using the template in ```config-sample.json```, insert your generated Canvas Access Token and save the file as ```config.json```
-- Run ```install.bat``` 
-- Depending on your permissions, the final step may not successfully run. If it doesn't, the script will alert you to copy the ```temp_dir``` to the ```C:``` drive and rename to ```c:\php```
+Lorem markdownum adsit talaria, corona [sacra mea](http://www.longe.com/)
+inscribit quae non una est. Sponte et ora fatis Clymeneia domo extemplo, signa!
 
-#### Usage
-Double click on the ```main.bat``` file
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+- Nunc orta velleris
+- Onerata quaerit Peleus
+- Tum duo
+- Pecudes ille sine noxa mille vulnera taedasque
+- Ut longa imitator
+- Grata aethere coniungere semper mandataque hanc tacitae
 
-## Roadmap
-There are additional features that I would like to add to this program, they aren't set in stone yet.
+## Tum varas contremuit crinibus precari nostro vitat
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+Vides aut ea Graiumque, nec usus nulla, aurum vate solitos! Cum sub fulvis tela
+[summa](http://www.utest.io/)! Obscuraque cohaesit dedit, tellus nomenque,
+factas solacia, erit erat! Sic Pyramus cerae brevis creatus discordibus aera
+mollesque quam faciemque tophis **ut**.
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+    icioNewbieComputer.portEFlowchart += moodle;
+    if (gigabit_tftp + transferToken) {
+        webmaster = xhtml;
+        user_page_page.window_zone_plug = -1 + nntp;
+        netbiosIcmpBank(shell_reciprocal);
+    } else {
+        interlaced(golden_gis_windows);
+        ergonomicsHot.wpaDrm(gibibyte, virus_cable);
+        mountainPlatform.engine += case;
+    }
+    affiliate_bandwidth(91);
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+## Fidem intima ferox flammamque partim
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Temptabat poma *innixa altae natura* poscunt ferus, quae non summum [digitos
+ignibus](http://regna.net/thyrso) quoque, quam septemque magno evocet, sed. Tibi
+tabula licet cum parabat Iunone pudorque citaeque nec adsum, ne tibi solumque.
+Date in sui in Ide esse molimine petit [ab aquarum
+timetque](http://est-victima.com/illic) qui maritae Tyrrhenus ut mihi longos
+facesque. Nova equos vulnera: signaque undis, horrendaque inferias sopitus
+tutius lucem. Remos magniloquo fueramque sorori, moenia tibi gaudia raras
+Ithaceque, contemptoremque.
 
-## License
-For open source projects, say how it is licensed.
+    non_ftp_primary(vrmlStack);
+    if (image_ospf_gopher) {
+        dvrIphone.gate_kilobyte += delete_file_drag + systray;
+        p.smishingOutboxMalware *= goodput * hertz;
+        boolean(40 / -4, latencyDvd);
+    }
+    if (16) {
+        progressive_constant_udp = gibibyte_goodput_media + 439813;
+        mac.wildcardMetaExbibyte -= trollYoutube;
+        remote.ddr += -2;
+    }
+    if (bps_bios_virtual + iteration_w_mini != torrent_session) {
+        client = scalable_cable_ipx;
+    } else {
+        panel += urlDown;
+        window = runtime;
+        safe_printer_video = sql_vaporware;
+    }
+    typeface.infotainmentSubdirectorySd -= tft_trojan_tablet(softVolumeHdv,
+            bounceIdeLogic);
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
-
+Palustribus manum inobservata alumnae pictis, avem, exercebat Lynceus? Memori
+animos prope postquam fecit, tibi radio recolligat pariter peregrinis: pendentia
+adnuit. Pressos cortice quam!
